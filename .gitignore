@@ -2,3 +2,4 @@
 /CNN/datasets/test
 /CNN/datasets/train
 logs/
+.conda
